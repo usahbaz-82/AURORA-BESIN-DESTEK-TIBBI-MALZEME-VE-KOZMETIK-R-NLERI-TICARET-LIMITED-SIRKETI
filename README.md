@@ -1,0 +1,2 @@
+# AURORA-BESIN-DESTEK-TIBBI-MALZEME-VE-KOZMETIK-R-NLERI-TICARET-LIMITED-SIRKETI
+Menü yapısı şu şekilde net bir kategorilendirmeye sahip olmalı:  TIBBİ MALZEMELER (Ana kategori)  Medikal Sarf Malzemeleri  Teşhis Ürünleri  Bakım Ürünleri  BESİN TAKVİYELERİ (Ana kategori)  Vitaminler &amp; Mineraller  Bitkisel Takviyeler  Özel Formüller  KOZMETİK ÜRÜNLER (Ana kategori)  Dermokozmetik  Kişisel Bakım  Profesyonel Seriler
